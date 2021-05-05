@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WDSL" uri="wsdl/tckimlik.nvi.gov.tr/service/KPSPublic.asmx.wdsl"/>
+    <system systemId="https://tckimlik.nvi.gov.tr/service/kpspublic.asmx?WSDL" uri="wsdl/tckimlik.nvi.gov.tr/service/KPSPublic.asmx.wsdl"/>
+    <system systemId="https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL" uri="wsdl/tckimlik.nvi.gov.tr/service/KPSPublic.asmx.wsdl"/>
+    <system systemId="https://tckimlik.nvi.gov.tr/service/kpspublic.asmx?op=TCKimlikNoDogrula" uri="wsdl/tckimlik.nvi.gov.tr/service/kpspublic.asmx.op_tckimliknodogrula"/>
+    <system systemId="https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?wsdl" uri="wsdl/tckimlik.nvi.gov.tr/service/KPSPublic.asmx.wsdl"/>
+</catalog>
